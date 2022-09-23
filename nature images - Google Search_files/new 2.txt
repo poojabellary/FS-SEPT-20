@@ -3,12 +3,12 @@
 <title>Web page</title>
 </head>
 <body>
-<img src="./logo.png"/>
+<img src="./logo.png"
 <a href="./index.html">Home</a>
-<a href="./About.html">About</a>
-<a href="./employee.html">employee</a>
-<a href="./services.html">services</a>
-<a href="./contact.html">contact</a>
+<a href="./index.html">About</a>
+<a href="./index.html">employees</a>
+<a href="./index.html">services</a>
+<a href="./index.html">contact</a>
 <div>
      <h1>Home Page</h1>
 	 <p>lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem</p>
