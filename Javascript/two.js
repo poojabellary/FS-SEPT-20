@@ -1,0 +1,15 @@
+var a=10;
+var b=20;
+var c="thirty";
+var d;
+var e=40.5;
+var f=true;
+var g="Rahul";
+var h="false";
+console.log(a+b);
+console.log(a+c);
+console.log(a+d);
+console.log(a+c);
+console.log(a++);
+console.log(a+g);
+console.log(a+h);
